@@ -3,6 +3,16 @@
 
 Este proyecto es una API REST 🎯 desarrollada con **Java + Spring Boot**, basada en el **patrón de diseño Strategy** 🧠. ¡Ideal para aprender conceptos sólidos de arquitectura mientras explorás el mundo del rock argentino! 🇦🇷🔥
 
+## 🧠 ¿Qué es el Patrón Strategy?
+
+El **Patrón Strategy** es un patrón de comportamiento que permite definir **una familia de algoritmos**, encapsular cada uno y hacerlos **intercambiables**. Esto permite que el algoritmo varíe independientemente de los clientes que lo usan.
+
+> En términos simples: permite cambiar el comportamiento de un objeto en tiempo de ejecución, sin modificar su estructura.
+
+En este proyecto, cada banda representa una estrategia distinta que implementa una interfaz común.
+
+---
+
 🎵 Temática
 ------------
 La API representa diferentes **bandas de rock argentino**, permitiéndote consultar información sobre cada una usando una estrategia distinta. Cada banda tiene su propia lógica implementada mediante el patrón `Strategy`.
