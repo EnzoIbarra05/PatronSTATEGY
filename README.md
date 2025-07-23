@@ -36,3 +36,12 @@ Objetivo:
 Este proyecto sirve como ejemplo práctico para entender el uso del patrón de diseño Strategy junto a Java y Spring Boot en una API REST.
 
 Ideal para subir a GitHub como muestra de conocimiento sobre patrones y arquitectura básica de APIs.
+
+🎥 Video de ayuda
+---------------------
+
+Si querés entender mejor el patrón Strategy aplicado en Java, te recomiendo este video explicativo:
+
+[![Ver en YouTube](https://img.youtube.com/vi/14Fxj5f0iaI/0.jpg)](https://www.youtube.com/watch?v=14Fxj5f0iaI&list=PLi_K_8CU7k80q16PgYYaVazBCeBEPngLq&index=4)
+
+🔗 [Mirá el video en YouTube](https://www.youtube.com/watch?v=14Fxj5f0iaI&list=PLi_K_8CU7k80q16PgYYaVazBCeBEPngLq&index=4)
